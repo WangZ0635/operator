@@ -1,1 +1,1 @@
-FROM upmcenterprises/elasticsearch-operator:0.4.0
+FROM registry.opensource.zalan.do/poirot/es-operator:latest
