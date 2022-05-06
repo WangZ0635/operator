@@ -1,1 +1,1 @@
-FROM registry.opensource.zalan.do/poirot/es-operator:latest
+FROM registry.opensource.zalan.do/poirot/es-operator@sha256:7bc0fa0961feff7faa9adbd39e9b15338484e0f16af8525a474dc75a2e00b618
